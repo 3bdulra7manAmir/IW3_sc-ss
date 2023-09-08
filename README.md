@@ -16,8 +16,10 @@
 1- Create a shortcut for iw3sp.exe<br>
 2- Then Right click on it and hit Properties.<br>
 3- In The shortcut Tab which is already opened You will find a field called Target and in it: "Your Drive Letter":\iw3\iw3sp.exe<br>
-4- Copy this line without the double quotes "  +set fs_game mods/your mod name here".<br>
-5- Then Your are done here, Launch the shortcut to play the mod.<br><br>
+4- Copy this line without the double quotes " +set fs_game mods/your mod name here".<br>
+5- And Yup there is a SPACE FIRST " " before the +set so it is all " +set fs_game mods/your mod name here".<br>
+6- Hit Apply and Okay.<br>
+7- Then Your are done here, Launch the shortcut to play the mod.<br><br>
 
 6.2 CMD Launcher:<br>
 1- Cut the CMD launcher into your Call of Duty 4 Modern Warfare Directory.<br>
