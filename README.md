@@ -29,3 +29,17 @@
 2- Right click on it and hit Edit.<br>
 3- Once it is opened using Notepad replace the "your mod name here" with your mod name.<br>
 4- And you are done here save, exit Then launch it to play your MOD.<br>
+
+![Screenshot (241)](https://github.com/user-attachments/assets/eac9b58d-4a31-463e-af74-244b2587870c)
+
+![Screenshot (239)](https://github.com/user-attachments/assets/3927a7af-d505-44f0-820d-94d909dd79cd)
+
+![Screenshot (240)](https://github.com/user-attachments/assets/a8f9e81f-e743-41ea-a6df-d544776ca83c)
+
+![Screenshot (237)](https://github.com/user-attachments/assets/2f3210c1-d668-4fe3-a947-e892fc49c877)
+
+![Screenshot (238)](https://github.com/user-attachments/assets/65730fbb-220b-47eb-882a-bdc657767d72)
+
+![Screenshot (232)](https://github.com/user-attachments/assets/56189496-511c-4180-8be3-314383ee0d73)
+
+![Screenshot (233)](https://github.com/user-attachments/assets/763b3b7f-d2db-4e40-8dc9-b0ad8a3481ca)
